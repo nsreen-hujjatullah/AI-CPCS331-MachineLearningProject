@@ -1,5 +1,7 @@
 # AI-CPCS331-MachineLearningProject
-1.1. Introduce the topic of the report./n
+1.1. Introduce the topic of the report.
+
+
 Artificial intelligence affects the future of every industrial sector and every human being on this planet. It is the main engine of all emerging technologies such as 
 mass data collection, robotics and the Internet of things, and artificial intelligence is expected to play a greater role in the coming years.
 Machine learning is a subset of artificial intelligence (AI) that focuses on creating systems that learn - or improve performance - based on the data they 
